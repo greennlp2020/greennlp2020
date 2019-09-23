@@ -19,15 +19,15 @@ pub_year: 2019
 github_username:  rtmdrr
 
 # add the full url for the github repository
-repo: "https://github.com/greennlp2020/greennlp2020"
+repo: "https://github.com/greennlp2020.github.io"
 
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://greennlp2020.github.io
+url: "https://greennlp2020.github.io"
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: https://github.com/greennlp2020/greennlp2020
+baseurl: ""
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
