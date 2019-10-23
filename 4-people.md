@@ -11,7 +11,7 @@ nav: true
 
 * **Jesse Dodge**, Carnegie Mellon University, [jessed@cs.cmu.edu](mailto:jessed@cs.cmu.edu)
 
-  Jesse Dodge is a senior PhD student at Carnegie Mellon University, in the Language Technologies Institute. He works on reproducibility in NLP, and methods which are efficient in terms of inference, training, or hyperparameter optimization. He is involved in QueerInAI and WiNLP. 
+  Jesse Dodge is a senior PhD student at Carnegie Mellon University, in the Language Technologies Institute. He works on reproducibility in NLP, and methods which are efficient in terms of inference, training, or hyperparameter optimization.
 
 * **Anna Rogers**, University of Massachusetts Lowell: [anna_rogers@uml.edu](mailto:anna_rogers@uml.edu)
 
